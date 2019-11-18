@@ -1,0 +1,22 @@
+{
+  "name": "tslint-config-vexera",
+  "version": "1.0.0",
+  "description": "TSLint Config",
+  "main": "tslint.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vexera/tslint-config-vexera.git"
+  },
+  "author": "Luke James",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vexera/tslint-config-vexera/issues"
+  },
+  "homepage": "https://github.com/Vexera/tslint-config-vexera#readme",
+  "dependencies": {
+    "tslint": "^5.20.1"
+  }
+}
